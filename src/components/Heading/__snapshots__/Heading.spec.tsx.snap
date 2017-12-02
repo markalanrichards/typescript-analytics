@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Heading with title 1`] = `
+.c0 {
+  padding: 1em;
+  text-align: center;
+  color: cornflowerblue;
+  opacity: 1;
+}
+
+.c0:hover {
+  -webkit-transition: opacity 0.6s ease-in-out;
+  transition: opacity 0.6s ease-in-out;
+  opacity: 0.2;
+}
+
+<h1
+  className="c0"
+>
+  TypeScript
+  !
+</h1>
+`;
